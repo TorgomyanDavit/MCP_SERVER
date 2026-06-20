@@ -1,0 +1,3 @@
+show all downloaded model => ollama list
+show running model => ollama ps
+stop runing model => ollama stop qwen2.5:7b
